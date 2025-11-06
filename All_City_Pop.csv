@@ -1,0 +1,735 @@
+city_name,Population
+Houston,2299269
+Hayden,14693
+Gunnison,7075
+Wichita,398024
+Austin,965827
+Baltimore,583157
+Dover,115352
+Detroit,638300
+Los Angeles,3895848
+Melbourne,4170000
+Anchorage,290893
+El Paso,679255
+Albuquerque,564888
+Lincoln,291633
+Aniak,
+St. Mary's,
+Fort Lauderdale,182892
+Manistee,9422
+Miami,442827
+Cincinnati,309601
+Dallas,5733259
+Seattle,740565
+Hartford,119798
+Roche Harbor,
+New York,8740292
+Kenmore,15217
+Nashville,1076645
+Smyrna,56685
+Toksook,
+Long Beach,465585
+Burbank,104834
+Nunapitchuk,
+Bethel,19526
+Teterboro,
+Chicago,2743329
+White Plains,59047
+Orlando,307834
+Kasigluk,
+Washington,670839
+Newtok,
+Everett,110893
+Oakland,440943
+Akiak,
+San Francisco,870518
+Tampa,387924
+Lakeland,113888
+Napakiak,
+Kahului,30706
+Edinburg,90280
+Santa Ana,311244
+Tacoma,219719
+Tuluksak,
+Sarasota,706245
+West Palm Beach,110222
+Waukegan,87729
+Marshall,21672
+Provincetown,
+Boston,675466
+New Haven,129757
+Providence,190745
+Lopez Island,
+Sheldon Point,
+Nikolai,
+Friday Harbor,
+Buffalo,277551
+Stuart,16543
+Peach Springs,
+Stillwater,48550
+Akiachak,
+Eastsound,
+Rockford,148670
+Lansing,112566
+San Antonio,1439257
+Newark,310645
+Chuathbaluk,
+San Bernardino,222090
+Dayton,137496
+Columbus,906418
+San Juan,447048
+Madison,275204
+Milwaukee,577207
+Winston-Salem,249804
+Charlotte,875752
+Norfolk,237789
+Eek,
+San Diego,1386292
+Santa Barbara,204034
+Cold Bay,
+Missoula,90218
+Fayetteville,209170
+Cape Girardeau,54588
+Paducah,48629
+Honolulu,347181
+Daytona Beach,68055
+Lihue,7064
+Raleigh,1018336
+Lynchburg,125004
+Philadelphia,1600684
+Fort Myers,79943
+Indianapolis,1564699
+Oklahoma City,683078
+Eagle,26089
+Bend,103349
+Gainesville,142245
+Eagle,26089
+Syracuse,146726
+Bradford,501700
+Denver,717606
+Columbia,136195
+Traverse City,49806
+Hooper Bay,
+Guam,
+Lexington,322627
+Albany,597270
+Owensboro,73173
+Scranton,389022
+Louisville,1011696
+Jackson,338185
+Roanoke,216177
+State College,88285
+Bedford,0
+Martha's Vineyard,
+Hillsboro,106894
+South Bend,281100
+Richmond,226936
+Palm Springs,24892
+Las Vegas,646794
+Jacksonville,951880
+Tupelo,45231
+Knoxville,191446
+Huntsville,216407
+Dallas,1303212
+Wilmington,115770
+Hyannis,
+Denton,141107
+College Station,207308
+Nantucket,10912
+Atlanta,499896
+Manchester,115508
+Chino,89797
+Ontario,175712
+Champaign,156794
+Jackson,152997
+Iowa City,119091
+Greer,30899
+El Dorado,17365
+Sanford,59317
+St. Louis,300496
+Appleton,222222
+Rifle,11038
+Lake Charles,153633
+Pittsburgh,302779
+St. George,113906
+Tallahassee,197933
+Tulsa,413651
+San Jose,1009319
+Minneapolis,430710
+Waterloo,112060
+Mobile,186621
+Alexandria,159139
+Phoenix,1612459
+Carlsbad,114924
+Greensboro,335588
+Manhattan,1643734
+Reno,264981
+Charlottesville,102016
+Springfield,169177
+Columbia,136195
+Van Nuys,
+Lubbock,258013
+Savannah,147456
+Santa Rosa,177959
+Bowling Green,90448
+Kansas City,508220
+Laredo,255489
+Topeka,126437
+Marana,44792
+Omaha,492758
+Watertown,54980
+New Orleans,383241
+Panama City,1281000
+Harlingen,136968
+Memphis,635225
+Oxford,192796
+Cleveland,371806
+Sun Valley,21101
+Plattsburgh,29006
+Colorado Springs,480331
+Bloomington,134892
+Portland,653344
+Charleston,150872
+Concord,125286
+Hagerstown,185704
+Wilmington,115770
+Grand Rapids,198707
+Burlington,127374
+Rochester,210862
+Westfield,41700
+Billings,117224
+Columbus,906418
+Salt Lake City,200660
+Dothan,71620
+Brownsville,187004
+Grand Junction,136688
+Harrisburg,441580
+Bozeman,53949
+Baton Rouge,226264
+Waco,140541
+Tuscaloosa,104217
+Montrose,22912
+Arlington,394248
+Newport News,179388
+Lafayette,121455
+Del Rio,44424
+Morristown,19037
+Eugene,177428
+Allentown,682899
+Corpus Christi,318065
+Santa Fe,489505
+Little Rock,202634
+Naples,2250000
+Kirksville,15942
+Provo,115103
+Fargo,125986
+Aspen,8521
+Charlotte Amalie,
+Aguadilla,11581
+Sacramento,525528
+Kotlik,
+Gulkana,
+Emmonak,
+Quinhagak,
+Port Moller,
+Little Port Walter,
+Iliamna,
+Kotzebue,
+Chevak,
+Unalakleet,
+Red Devil,
+Ketchikan,10636
+Sitka,6875
+Chefornak,
+May Creek,
+Ruby,
+Crooked Creek,
+Sleetmute,
+Nulato,
+Sandpoint,12349
+Anvik,
+Huslia,
+Juneau,25180
+Golovin,
+Fairbanks,64732
+Tuntutuliak,
+Kalskag,
+South Naknek,
+Wrangell,
+McGrath,
+Rampart,
+St. Paul,311140
+Barrow,
+Bangor,0
+St. George Island,
+Farmington,52555
+Tok,
+Medford,168219
+Mountain Village,
+Arcata,33806
+Akutan,
+Nome,
+Atmautluak,
+Kodiak,9156
+McCook,7407
+Scammon Bay,
+Allakaket,
+Alakanuk,
+Kenai,5399
+North Bend,9702
+Minto,
+Stony River,
+Roseburg,43948
+Elfin Cove,
+Napaskiak,
+Durango,457140
+McCarthy,
+Anaktuvuk Pass,
+Escanaba,20199
+Kwigillingok,
+Buckland,
+Saipan,
+Beaver,
+Dillingham,
+Petersburg,31750
+Yakutat,
+Twin Falls,54455
+Chenega,
+Ukiah,29637
+Lakeport,16614
+Presque Isle,5696
+Russian Mission,
+Kearney,34386
+Portland,653344
+Goodnews Bay,
+Fairfield,119833
+Skwentna,
+Gallup,23415
+Platinum,
+Corvallis,66441
+Chisana,
+Riverside,315067
+Brownwood,22172
+Teller,
+Bellingham,126015
+North Platte,24352
+Great Falls,65624
+Toledo,270276
+Bismarck,97457
+Kwethluk,
+Tatitlek,
+Tanana,
+Casper,67462
+Dickinson,21935
+Barter Island,
+Deadhorse,
+Williston,26301
+Gaylord,8393
+Pontiac,59792
+Deering,
+Kongiganak,
+Wales,
+Grand Island,53424
+Beluga,
+Adak Island,
+Hilo,45703
+Koyuk,
+Shaktoolik,
+Sioux Falls,193437
+Elim,
+Holy Cross,
+Inyokern,
+Shreveport,186848
+Albany,597270
+Unalaska,
+Takotna,
+Mosinee,
+Fresno,542710
+Fort Wayne,264380
+King Salmon,
+Galena,
+Ashland,24477
+Fort Yukon,
+St. Michael,17565
+Evansville,117373
+Abilene,125417
+San Angelo,99890
+Chalkyitsik,
+Kobuk,
+Chattanooga,181568
+White Mountain,
+Monterey,28639
+Dublin,1059000
+Savoonga,
+Cape Lisburne,
+Brevig Mission,
+Pensacola,344400
+Hickory,215353
+Hoolehua,
+Nightmute,
+Boise,236034
+Noorvik,
+Kivalina,
+Selawik,
+Salem,175942
+Rochester,210862
+Gambell,
+Yuma,138802
+Tyonek,
+Hoonah,
+Shungnak,
+Stebbins,
+Erie,188079
+Noatak,
+Shishmaref,
+Ambler,6521
+San Luis Obispo,62398
+Minot,49884
+Manteo,5403
+Kiana,
+Kipnuk,
+Garden City,30206
+Spokane,229205
+Wilmington,115770
+Iron Mountain,18568
+Marathon,9591
+Point Hope,
+Pierre,14803
+Monroe,115462
+Rock Springs,26710
+Port Angeles,23865
+Greenville,467894
+Rota,
+Gary,76008
+Sault Ste. Marie,12637
+Cedar City,36592
+Cordova,
+Midland,144247
+Des Moines,213826
+Crescent City,15886
+Hancock,
+Bishop,9630
+Flint,335354
+Yakima,133233
+Lake Havasu City,55341
+Homer,5697
+Aberdeen,189364
+Pellston,
+Newport,15033
+Bemidji,16733
+Alpena,13597
+Rhinelander,8738
+Scottsbluff,25662
+Key West,32820
+Lanai,
+Klamath Falls,42463
+Niagara Falls,48460
+Pilot Station,
+Marquette,26029
+Wake Island,
+Christiansted,
+Flagstaff,78628
+Pocatello,71020
+Bakersfield,405280
+Redding,120270
+Kalispell,37024
+El Centro,112145
+Birmingham,200375
+Thief River Falls,9156
+Peoria,191997
+Duluth,120101
+Santa Maria,109782
+Kona,
+Rapid City,88979
+New Bern,50617
+Myrtle Beach,260487
+Visalia,141771
+Idaho Falls,97548
+Kapalua,
+Pago Pago,12576
+Red Dog,
+Newburgh,28363
+Stockton,320976
+Tucson,542638
+Galbraith Lake,
+Soldotna,7304
+Twin Hills,
+Seldovia,
+Chignik,
+Chignik Bay,
+Grayling,
+Port Graham,
+Birch Creek,
+Tununak,
+Chignik Lagoon,
+Koyukuk,
+Port Armstrong,
+Burlington,127374
+Pilot Point,
+Perryville,8660
+Manley Hot Springs,
+Oxnard,389792
+Venice,270816
+Beverly,41816
+Bridgeport,147717
+Portsmouth,442252
+Westhampton,
+Norwood,19870
+Alliance,31758
+Titusville,57497
+Aurora,386773
+East Hampton,12890
+Bar Harbor,5356
+Marshfield,25648
+Chatham,12624
+Concord,125286
+Lake Placid,16683
+Princeton,31822
+Penn Yan,6529
+Hawthorne,87854
+Bermuda Dunes,7243
+Walterboro,9013
+Latrobe,7949
+Zephyrhills,76416
+Heber,23923
+Pasco,73013
+Stafford,0
+Augusta,389383
+Thermal,
+Broomfield,68341
+Amarillo,200526
+Tatalina,
+Shageluk,
+Healy,
+Ugashik,
+False Pass,
+Hughes,
+Point Lay,
+Wainwright,
+Kaltag,
+Vero Beach,16919
+Gustavus,
+Springfield,169177
+Port Heiden,
+Plainville,17805
+Harrison,17643
+Hot Springs,57819
+Newport,15033
+Punta Gorda,7748
+East Farmingdale,6222
+Lebanon-Hanover,
+Lawrence,80162
+Trenton,296869
+Camarillo,74682
+Quincy,94166
+Plainview,26141
+Valparaiso,33376
+St. Petersburg,259266
+New Stuyahok,
+Valdez,11441
+Stevens Village,
+Igiugig,
+Chicken,
+Arctic Village,
+Togiak,
+Ekwok,
+Mekoryuk,
+Hana,
+Chicopee Falls,
+New Bedford,149528
+Truckee,12418
+Ocala,164712
+Boca Raton,98150
+Leesburg,148161
+Mammoth Lakes,7598
+Greenville,467894
+Islip,335302
+Haines,
+Central,28984
+Nelson Lagoon,
+Merced,144117
+Tinian,
+Marion,45324
+Middletown,57973
+Rutland,18571
+Gaithersburg,68710
+Saranac Lake,7522
+Akun,
+Venetie,
+Parkersburg,64253
+Coldfoot,
+Belfast,450406
+Pompano Beach,111957
+Brooksville,8147
+Lancaster,173094
+Muncie,88688
+Cape Newenham,
+Port Alexander,
+Klawock,
+Marco Island,17904
+Atqasuk,
+Beckley,59629
+Clifton,86607
+Mountain View,81438
+Napa,87032
+Green Bay,208625
+Utopia,
+Lake Minchumina,
+Vernal,19613
+Las Vegas,646794
+Tenakee,
+Staunton,58470
+Koliganek,
+San Carlos,77192
+Glendale,248949
+Tin City,
+Pelican,
+Kake,
+Victorville,134638
+Egegik,
+Diomede Island,
+Nikolski,
+Atka,
+West Palm Beach,117507
+Nuiqsut,
+Cape Romanzof,
+Nanwalek,
+Ogdensburg,10893
+Prospect Creek,
+Chadron,5324
+Levelock,
+Macon,152663
+King Cove,
+Circle,
+Greenville,467894
+Jonesboro,73788
+Killeen,153735
+Devils Lake,7602
+Pueblo,111899
+Athens,3242000
+Blacksburg,92573
+Page,6946
+Bristol,553528
+Culebra,
+Bloomington,134892
+Vieques,
+Bullhead City,49531
+Skagway,
+Jamestown,41236
+Eagle Nest,
+Clarksburg,41453
+Lafayette,121455
+Columbus,906418
+Kamuela,
+Eau Claire,107068
+Grand Forks,66159
+Gulfport,221348
+Clarks Point,
+Safford,19302
+Kalamazoo,214083
+Asheville,309250
+Bettles,
+Boulder City,14741
+Taos,13571
+Atlantic City,241363
+Moline,42231
+La Crosse,101886
+Belleville,43990
+Akron,190146
+Fayetteville,209170
+DuBois,11378
+Dubuque,68573
+Carlsbad,114924
+Manokotak,
+Las Cruces,111698
+Silver City,11882
+Ironwood,6582
+Angoon,
+Kalaupapa,
+Glendive,6719
+Canyon,15464
+Springfield,169177
+Hibbing,11389
+Brainerd,19574
+St. Cloud,114225
+Williamsport,54389
+Morgantown,72453
+Jackson,152997
+Wolf Point,
+Glasgow,1160000
+Helena,50227
+Havre,10148
+Cortez,8603
+Augusta,389383
+Lewisburg,5712
+Llano,
+Rockland,17849
+Concord,125286
+Massena,10673
+Muskegon,160142
+Moab,7164
+Fort Leonard Wood,16307
+Worcester,205056
+Westerly,22626
+Block Island,
+Clovis,120770
+Sidney,21319
+Telluride,
+Pendleton,17282
+Show Low,10837
+Mason City,26457
+Johnstown,64615
+Muscle Shoals,14022
+Charleston,616085
+Fort Dodge,24223
+Wichita Falls,99617
+Ponce,120295
+Dodge City,27696
+Liberal,19636
+Mayaguez,64624
+International Falls,6581
+Salina,46782
+Altoona,76096
+Butte,30628
+Montgomery,200041
+Prescott,42731
+Joplin,86298
+Decatur,23832
+Alamosa,10963
+Victoria,33576
+Pullman,33276
+Hobbs,40614
+Elko,21178
+Binghamton,150747
+Elmira,64664
+Ogden,573632
+Hattiesburg,81036
+Sioux City,106279
+Lewiston,58796
+Salisbury,106034
+Laramie,33508
+Hays,21525
+Florence,1500000
+Meridian,119443
+Jefferson,21440
+Riverton,43344
+Watertown,54980
+Sheridan,19234
+Beaumont,148954
+Longview,100196
+Cheyenne,78728
+Cody,9696
+Gillette,34378
+Texarkana,80145
+Ithaca,55439
+Walla Walla,57779
+Jacksonville,1156291
+Lawton,91383
+Brunswick,54017
+Hilton,5855
+Saginaw,119336
+Tyler,106272
+Valdosta,79294
+Roswell,94786
+Wenatchee,71512
+Fort Smith,125562
